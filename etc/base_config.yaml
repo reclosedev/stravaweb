@@ -1,0 +1,6 @@
+config:
+  debug: false
+  db_url: 'sqlite:///strava_activities.sqlite'
+  cookies_path: '/tmp/strava_mfs.cookies'
+  clubs: []   # [123, 345, 567]
+  credentials: []  # [[login1, password1], [login2, password2]]

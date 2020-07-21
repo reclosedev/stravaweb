@@ -1,0 +1,5 @@
+config:
+  clubs: [123, 345, 567]
+  credentials:
+    - [login, password]
+    - [login2, password2]
