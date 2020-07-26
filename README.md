@@ -10,6 +10,7 @@ Now it can download all activities from selected clubs. See [configuration](#con
 ![Demo animation](demo-files/stravaweb-demo.gif)
 
 - [Nizhny Novgorod rides 24-26 July](https://reclosedev.github.io/stravaweb/nn_2020-07-24-26.html)
+- [All routes from Nizhny Novgorod clubs 26 July (from 14 June)](https://reclosedev.github.io/stravaweb/all-from-nn-2020-06-14-2020-07-26.html)
 
 
 # Installation
