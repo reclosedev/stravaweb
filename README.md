@@ -6,7 +6,8 @@ data and analyze it in interactive maps like [kepler.gl](https://kepler.gl/) and
 Now it can download all activities from selected clubs. See [configuration](#configuration)
 
 # Demo
-TODO: embed gif demo
+
+![Demo animation](demo-files/stravaweb-demo.gif)
 
 - [Nizhny Novgorod rides 24-26 July](https://reclosedev.github.io/stravaweb/nn_2020-07-24-26.html)
 
