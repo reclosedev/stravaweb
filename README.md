@@ -5,8 +5,11 @@ data and analyze it in interactive maps like [kepler.gl](https://kepler.gl/) and
 
 Now it can download all activities from selected clubs. See [configuration](#configuration)
 
-TODO: links to generated maps
+# Demo
 TODO: embed gif demo
+
+- [Nizhny Novgorod rides 24-26 July](https://reclosedev.github.io/stravaweb/)
+
 
 # Installation
 [Poetry](https://python-poetry.org/) is used for this project
