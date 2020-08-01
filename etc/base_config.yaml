@@ -2,5 +2,11 @@ config:
   debug: false
   db_url: 'sqlite:///strava_activities.sqlite'
   cookies_path: '/tmp/strava_mfs.cookies'
-  clubs: []   # [123, 345, 567]
+  clubs:
+    - 39842  # nn
+    - 148556  # nn road
+    - 193531  # dzr
+    - 512399  # brosnn
+    - 68016  # mtb enduro
+    - 27352  # velonn
   credentials: []  # [[login1, password1], [login2, password2]]
